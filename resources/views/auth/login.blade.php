@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
+ <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4">
         <div class="card border border-light-subtle rounded-3 shadow-sm mt-5">
@@ -12,7 +12,7 @@
               </a>
             </div>
             <h2 class="fs-6 fw-normal text-center text-secondary mb-4">Sign in to your account</h2>
-            <form method="POST" action="{{ route('login.post') }}">
+            <form method="POST" action="{{ route('') }}">
               @csrf
 
               @session('error')
