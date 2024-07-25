@@ -12,7 +12,7 @@
               </a>
             </div>
             <h2 class="fs-6 fw-normal text-center text-secondary mb-4">Sign in to your account</h2>
-            <form method="POST" action="{{ route('') }}">
+            <form method="POST" action="">
               @csrf
 
               @session('error')
