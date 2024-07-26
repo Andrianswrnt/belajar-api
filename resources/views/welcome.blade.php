@@ -111,7 +111,7 @@
                                 </div>
 
                                 <div class="pt-3 sm:pt-5">
-                                    <h2 class="text-xl font-semibold text-black dark:text-white">Ngetes</h2>
+                                    <h2 class="text-xl font-semibold text-black dark:text-white">Andrianss</h2>
 
                                     <p class="mt-4 text-sm/relaxed">
                                         Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
@@ -130,7 +130,7 @@
                                 </div>
 
                                 <div class="pt-3 sm:pt-5">
-                                    <h2 class="text-xl font-semibold text-black dark:text-white">Hallo News</h2>
+                                    <h2 class="text-xl font-semibold text-black dark:text-white">Bandung</h2>
 
                                     <p class="mt-4 text-sm/relaxed">
                                         Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
